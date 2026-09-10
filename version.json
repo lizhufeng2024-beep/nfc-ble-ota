@@ -2,6 +2,12 @@
   "appName": "NFC-BLE",
   "latestVersion": "1.1.75",
   "versions": [
+     {
+      "version": "1.1.74",
+      "releaseDate": "2026-09-10",
+      "description": "NFC-BLE v1.1.74",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/lizhufeng2024-beep/NFC-BLE-OTA@main/apk/app-nfc%2Bble-v1.1.74.apk"
+    }
     {
       "version": "1.1.75",
       "releaseDate": "2026-09-10",
