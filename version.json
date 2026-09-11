@@ -1,27 +1,19 @@
 {
   "appName": "NFC-BLE",
-  "latestVersion": "1.1.76",
+  "latestVersion": "1.1.78",
   "versions": [
-     
-    {
-      "version": "1.1.75",
-      "releaseDate": "2026-09-10",
-      "description": "NFC-BLE v1.1.75",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/lizhufeng2024-beep/NFC-BLE-OTA@main/apk/app-nfc%2Bble-v1.1.75.apk"
-    },
-
-    {
-      "version": "1.1.76",
-      "releaseDate": "2026-09-10",
-      "description": "NFC-BLE v1.1.76",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/lizhufeng2024-beep/NFC-BLE-OTA@main/apk/app-nfc%2Bble-v1.1.76.apk"
-    },
-
     {
       "version": "1.1.77",
-      "releaseDate": "2026-09-10",
+      "releaseDate": "2026-09-11",
       "description": "NFC-BLE v1.1.77",
       "downloadUrl": "https://cdn.jsdelivr.net/gh/lizhufeng2024-beep/NFC-BLE-OTA@main/apk/app-nfc%2Bble-v1.1.77.apk"
+    },
+
+    {
+      "version": "1.1.78",
+      "releaseDate": "2026-09-11",
+      "description": "NFC-BLE v1.1.78",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/lizhufeng2024-beep/NFC-BLE-OTA@main/apk/app-nfc%2Bble-v1.1.78.apk"
     }
   ]
 }
